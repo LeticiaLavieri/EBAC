@@ -24,8 +24,10 @@ Meu objetivo é armazenar neste repositório os exercícios realizados durante o
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=30A3DC) ![Pandas](https://img.shields.io/badge/-Pandas-130654?logo=pandas&logoColor=#150458)
 
+<br>
+<br>
 
+## Referencias
 
-
-
+-[Documentação Python](https://docs.python.org/3/library/)
 
